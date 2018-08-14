@@ -1,5 +1,8 @@
 <!-- .slide: data-state="title" -->
-# RayVeal
+# Presentation
+
+Presentation easy with Markdown
+
 opinionated reveal.js
 
 ---
