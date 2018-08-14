@@ -47,7 +47,7 @@
       </div>
       <div class="small">
         <strong>&larr; &rarr;</strong>-navigate
-        <strong>ctrl-?</strong>-toolbar
+        <strong>ctrl-/</strong>-toolbar
         <strong>ctrl-m</strong>-menu
         <strong>esc</strong>-overview</div>
     </footer>
@@ -155,7 +155,7 @@
 
       document.addEventListener('keydown', function (e) {
         var keyName = e.key;
-        if (keyName === '?' && e.ctrlKey) {
+        if (keyName === '/' && e.ctrlKey) {
           var myNode = document.querySelector('.footer');
           myNode.classList.toggle('fadeout');
         }
