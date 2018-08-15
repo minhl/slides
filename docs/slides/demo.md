@@ -1,7 +1,7 @@
 <!-- .slide: data-state="title" -->
 # Presentation
 
-Presentation easy with Markdown
+Cloned from Windows
 
 opinionated reveal.js
 
